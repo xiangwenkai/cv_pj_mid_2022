@@ -1,1 +1,2 @@
 # cv_pj_mid_2022
+py_nn_resnet18文件夹下存放的是基于cifar100数据集的分类模型代码，faster-rcnn-pytorch文件夹下存放的是基于VOC数据集的faster-rcnn目标检测模型代码，yolov3文件夹下存放的是基于VOC数据集的yolov3目标检测模型代码
